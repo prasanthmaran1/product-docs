@@ -8,8 +8,6 @@ sidebar_position: 7
 
 > **Profile status:** This page reflects internal documentation as of October 31, 2025. Public references confirming Aravind's appointment at VeLU.ai were not located during the latest review, so please update this page when external announcements are available.
 
-## Overview
-
 Aravind serves as the Chief Executive Officer of **VeLU.ai**, the organization commercializing the Variance-enhanced Learning Unit (VeLU) activation function for production-grade AI systems. In this role, he steers corporate strategy, aligns research breakthroughs with market needs, and represents VeLU.ai in strategic partnerships and investor communications.
 
 ## Leadership Responsibilities
